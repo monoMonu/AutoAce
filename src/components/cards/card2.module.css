@@ -1,0 +1,31 @@
+.card2{
+   display: flex;
+   align-items: flex-start;
+   justify-content: space-evenly;
+   flex-direction: column;
+   padding: 2.5rem;
+   background-color: #57a6d7;
+}
+.card2>.imgBox{
+   display: grid;
+   place-items: center;
+   width: 3rem;
+   height: 3rem;
+   border-radius: 50%;
+   border: 3px var(--light-1) solid;
+   /* margin-bottom: 1rem; */
+}
+.card2 img{
+   width: 2rem;
+   height: 2rem;
+   filter: invert(1);
+}
+.card2 h2{
+   font-size: 1.6rem;
+   font-weight: 500;
+   flex: 1;
+   margin: 1rem 0;
+}
+.card2 a{
+   color: var(--light-1);
+}

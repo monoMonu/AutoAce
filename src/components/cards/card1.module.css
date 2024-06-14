@@ -1,0 +1,23 @@
+
+.card1{
+   display: flex;
+   align-items: center;
+   max-width: 18em;
+   padding-top: 3rem;
+}
+.card1 img{
+   width: 5em;
+   margin: 1em;
+}
+.card1 h4{
+   font-size: 1em;
+   line-height: 2;
+   color: #ffffff;
+   padding: .75em 0;
+}
+.card1>p>p{
+   font-size: .9em;
+   line-height: 1.5;
+   padding-right: 1em;
+   color: #797979;
+}
