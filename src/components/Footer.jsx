@@ -5,7 +5,7 @@ const Footer = () => (
    <footer className="footer" >
       <div>
         <div className="footerLeft">
-          <a href="/">
+          <a href="#">
             <img
               src={logo}
               alt="Logo"
@@ -50,40 +50,40 @@ const Footer = () => (
         <div className="footerRight">
           <div className="genralCol">
             <h3>General</h3>
-            <a href="/register">
+            <a href="#">
               Register
             </a>
-            <a href="/login">
+            <a href="#">
               Login
             </a>
-            <a href="/contact">
+            <a href="#">
               Privacy Policy
             </a>
-            <a href="/">
+            <a href="#">
               Terms & Conditions
             </a>
           </div>
           <div className="helpCol">
             <h3>Help & Support</h3>
-            <a href="/">
+            <a href="#">
               Help center
             </a>
-            <a href="/">
+            <a href="#">
               Contributors guidelines
             </a>
           </div>
           <div className="linkCol">
             <h3>Useful Links</h3>
-            <a href="/">
+            <a href="#">
               Orders
             </a>
-            <a href="/">
+            <a href="#">
               Garage
             </a>
-            <a href="/">
+            <a href="#">
               About
             </a>
-            <a href="/">
+            <a href="#">
               Get Started
             </a>
           </div>
