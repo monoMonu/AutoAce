@@ -15,7 +15,6 @@ html{
 body{
   width: 100%;
   position: relative;
-  overflow-x: hidden;
   font:400 16px 'Roboto', sans-serif;
 }
 
